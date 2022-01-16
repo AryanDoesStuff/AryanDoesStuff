@@ -1,4 +1,10 @@
-### Hi there 👋
+### This is the github account of Aryan Sinha
+
+Check out my alt account DiscordBotCreator-png
+Also I post on the github account for my FTC Team: WestRidgebotics
+
+
+* Currently Doing Stuff
 
 <!--
 **AryanDoesStuff/AryanDoesStuff** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
