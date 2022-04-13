@@ -1,7 +1,9 @@
 ### This is the github account of Aryan Sinha
 
-Check out my alt account DiscordBotCreator-png
+Check out my alt account AryansStuff
 Also I post on the github account for my FTC Team: WestRidgebotics
+
+- I like making random things, like from a package manager to a half functional programming language to robotics, to really just any and all things programming, check me out on discord -> AryansStuff#4542 (this is an alt)
 
 
 * Currently Doing Stuff
